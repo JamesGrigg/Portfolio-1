@@ -42,13 +42,13 @@ I think the project went well. We worked well as a team, for the most part. Even
 
 ## References
 ![Image](1.png)
-Figure 1: Screenshot from GitHub Discussions
+<div style='text-align:center;'>Figure 1: Screenshot from GitHub Discussions</div>
 ![Image](2.png)
-Figure 2: Our backlog with in-progress tickets
+<div style='text-align:center;'>Figure 2: Our backlog with in-progress tickets</div>
 ![Image](3.png)
-Figure 3: The Kanban board showing where in progress the tickets where
+<div style='text-align:center;'>Figure 3: The Kanban board showing where in progress the tickets where</div>
 ![Image](4.png)
-Figure 4: Merging the login system into the main program
+<div style='text-align:center;'>Figure 4: Merging the login system into the main program</div>
 
 You can use the [editor on GitHub](https://github.com/MitchellBriggs/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
