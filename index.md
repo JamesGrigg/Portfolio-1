@@ -43,9 +43,15 @@ I think the project went well. We worked well as a team, for the most part. Even
 ## References
 ![Image](1.png)
 Figure 1: Screenshot from GitHub Discussions
+
+
 ![Image](2.png)
 Figure 2: Our backlog with in-progress tickets
+
+
 ![Image](3.png)
 Figure 3: The Kanban board showing where in progress the tickets where
+
+
 ![Image](4.png)
 Figure 4: Merging the login system into the main program
