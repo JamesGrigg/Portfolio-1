@@ -1,5 +1,4 @@
-[Download files][download-file]
-[download-file]: "Mitchell Briggs - Resume.doc"
+<a href="Mitchell Briggs - Resume.doc" download>Download Resume</a>
 
 # Portfolio
 Thinking about this semester, I thoroughly enjoyed working on the software project. Throughout this project, some valuable aspects I learnt were, how to properly form a new team, how they function in a working environment, and how to handle conflicts between team members. Furthermore, I also learnt a lot about the use of laravel, creating login systems, and a little javascript as well.
